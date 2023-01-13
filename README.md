@@ -1,3 +1,3 @@
-# Link para o Github
+# Link Docker Hub
 
-https://github.com/eduardorodrigues94/docker-go-full-cycle
+https://hub.docker.com/r/deadroxx/fullcycle
